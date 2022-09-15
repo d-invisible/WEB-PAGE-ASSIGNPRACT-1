@@ -1,0 +1,9 @@
+Poject LIVE WEB PAGE:  http://127.0.0.1:5500/
+
+Platform: VSCode (Live server)
+
+- HTML for structure
+- CSS for styling 
+  - Box model - similar cards created
+  - Flexbox - arranged cards 
+  - animations - added hover effect
